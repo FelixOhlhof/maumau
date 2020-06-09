@@ -9,6 +9,9 @@ public class MaumauApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(MaumauApplication.class, args);
+
+		System.out.println("Hi");
+
 	}
 
 }

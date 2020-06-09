@@ -1,10 +1,8 @@
 package com.htw.kba.ss20.gruppe4.maumau.model;
 
-import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 
-@Component
 public class Tisch {
 
     private ArrayList <Spieler> spielerList;
